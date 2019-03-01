@@ -1,0 +1,11 @@
+{
+  "connection_file": "creds.json",
+  "channel_name": "mychannel",
+  "smart_contract_name": "blockchainbean2",
+  "appAdmin": "app-admin",
+  "appAdminSecret": "app-adminpw",
+  "orgMSPID": "org1msp",
+  "caName": "173.193.106.28:32628",
+  "userName": "user1",
+  "gatewayDiscovery": { "enabled": true, "asLocalhost": false }
+}

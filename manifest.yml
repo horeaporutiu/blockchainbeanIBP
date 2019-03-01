@@ -1,0 +1,8 @@
+applications:
+- name: blockchainbeans2
+  instances: 1
+  memory: 256MB
+  disk_quota: 512M
+  stack: cflinuxfs2
+  timeout: 60
+
